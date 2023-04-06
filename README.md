@@ -4,7 +4,7 @@ This code stores the valus entered in by the user and assigns them to variables 
 
 [Software Demo Video]
 
-https://youtu.be/6IXIOj4lwLA
+https://youtu.be/6lXlOj4lwLA
 
 
 # Development Environment
